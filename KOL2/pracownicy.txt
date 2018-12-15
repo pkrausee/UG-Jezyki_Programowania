@@ -1,0 +1,6 @@
+Kowalski,Jan,90120398765,Starszy programista,7000z³,C++ Python Java,prawojazdy kat. B
+Beacka,Beata,90090587654,Specjalista ds sprzeda¿y,4000z³,angielski rosyjski,telemarketing,prawojazdy kat. B
+Adamski,Adam,91120912345,Programista,5000z³,C# Java
+Nowak,Anna,92040598765,M³odszy programista,4000z³,Java
+Cezarski,Cezary,94080787654,Ekspert ds sprzeda¿y,6000z³,angielski niemiecki,telemarketing,prawojazdy kat. B
+Darecki,Dariusz,92020234458,M³odszy specjalista ds sprzeda¿y,2500z³,angielski,sprzeda¿ bezpoœrednia
